@@ -1,0 +1,1 @@
+Custom content to be return to variable
